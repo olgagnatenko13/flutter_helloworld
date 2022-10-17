@@ -1,2 +1,5 @@
-# flutter_helloworld
-Hello World - Flutter
+# Flutter - Hello World
+
+This is repository with Hello World in Flutter.
+
+
